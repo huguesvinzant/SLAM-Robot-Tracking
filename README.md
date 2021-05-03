@@ -1,4 +1,4 @@
-# Automatic Image Captioning
+# SLAM Robot Tracking
 
 ## Project Overview
 
